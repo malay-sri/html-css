@@ -1,0 +1,25 @@
+        p1
+        {
+            color: rgb(23, 23, 251);font-family: cursive;
+        }
+        p2
+        {
+            color: rgb(14, 211, 57);background-color: rgb(255, 96, 3);
+        }
+        h1
+        {
+            font-style: italic;color: yellow(255, 247, 6);
+        }
+        h2
+        {
+            font-size: small;color: aqua;
+            border: 10px;color: black;
+        }
+        div
+        {
+            font-weight: bold;
+            font-size: xx-large;
+            border: 5px solid burlywood;
+            border-radius: 20px;
+            background-color: rgb(110, 124, 234);
+        }
